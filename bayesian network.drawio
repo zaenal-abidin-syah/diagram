@@ -1,9 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T06:13:34.154Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.0" etag="yFLh7-CeT4KMdDEOk8SM" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T07:24:19.590Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="hT9_2iDSekMv2C09Ztgv" version="24.0.0" type="github">
   <diagram name="Page-1" id="g0B0_SYQdLjcX-pHqLb-">
-    <mxGraphModel>
+    <mxGraphModel dx="926" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tm8iUtSKTc4FyTZMgTau-5" target="Tm8iUtSKTc4FyTZMgTau-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tm8iUtSKTc4FyTZMgTau-5" target="Tm8iUtSKTc4FyTZMgTau-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-5" value="Define problem Statement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tm8iUtSKTc4FyTZMgTau-6" target="Tm8iUtSKTc4FyTZMgTau-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-6" value="Definisikan Variable dan hubungan antar variable" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tm8iUtSKTc4FyTZMgTau-8" target="Tm8iUtSKTc4FyTZMgTau-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-8" value="Memilih Bayesian Network Structure" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tm8iUtSKTc4FyTZMgTau-10" target="Tm8iUtSKTc4FyTZMgTau-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-10" value="Menentukan prior distributions untuk parameter" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tm8iUtSKTc4FyTZMgTau-12" target="Tm8iUtSKTc4FyTZMgTau-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-12" value="Memilih prior distribution atas parameter prior" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tm8iUtSKTc4FyTZMgTau-14" target="Tm8iUtSKTc4FyTZMgTau-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-14" value="Memilih metode Estimasi parameter dalam model" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tm8iUtSKTc4FyTZMgTau-16" target="Tm8iUtSKTc4FyTZMgTau-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-16" value="Menangani data yang hilang dan tidak pasti" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tm8iUtSKTc4FyTZMgTau-19" target="Tm8iUtSKTc4FyTZMgTau-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-19" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tm8iUtSKTc4FyTZMgTau-23" target="Tm8iUtSKTc4FyTZMgTau-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-23" value="Evaluasi Kinerja Model" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tm8iUtSKTc4FyTZMgTau-29" target="Tm8iUtSKTc4FyTZMgTau-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-35" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tm8iUtSKTc4FyTZMgTau-32">
+          <mxGeometry x="-0.1556" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tm8iUtSKTc4FyTZMgTau-29" target="Tm8iUtSKTc4FyTZMgTau-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-29" value="Kinerja Model diterima" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1180" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tm8iUtSKTc4FyTZMgTau-31" target="Tm8iUtSKTc4FyTZMgTau-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-31" value="Gunakan Bayesian Network untuk Inferensi pada data baru" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-33" value="Memperbaiki hyperparameters dan Ulangi Process" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-36" value="End" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tm8iUtSKTc4FyTZMgTau-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tm8iUtSKTc4FyTZMgTau-33" target="Tm8iUtSKTc4FyTZMgTau-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1210" as="sourcePoint" />
+            <mxPoint x="470" y="1060" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="1090" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
