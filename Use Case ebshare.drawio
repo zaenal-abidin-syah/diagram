@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T13:19:22.980Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yVwnZzXndL4nuAU6JZEp" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T13:32:05.519Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tdmQOcjN7Ln1LFhC0Rsg" version="24.3.1" type="github">
   <diagram name="Page-1" id="VRgatiDFL3xRCRDLOtnf">
     <mxGraphModel dx="1420" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
             <mxPoint x="380" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fy4yYYnd7suLlGbqgRSj-27" value="lihat user detail" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fy4yYYnd7suLlGbqgRSj-27" value="cek profile" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="580" y="160" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fy4yYYnd7suLlGbqgRSj-28" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="fy4yYYnd7suLlGbqgRSj-1" target="fy4yYYnd7suLlGbqgRSj-27" edge="1">
