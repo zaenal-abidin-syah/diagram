@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T12:53:54.911Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="E_a2uJjMThMP_F6z64xZ" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T12:57:23.819Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="p_lcm1TPs2mAbPGGcP_L" version="24.3.1" type="github">
   <diagram name="Page-1" id="VRgatiDFL3xRCRDLOtnf">
     <mxGraphModel dx="1420" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
           <mxGeometry x="850" y="-210" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fy4yYYnd7suLlGbqgRSj-33" value="delete ebook" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="-130" width="140" height="70" as="geometry" />
+          <mxGeometry x="850" y="-130" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fy4yYYnd7suLlGbqgRSj-36" value="lihat statistik ebook" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="-260" width="140" height="70" as="geometry" />
@@ -172,7 +172,7 @@
             <mxPoint x="390" y="-360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2w0yXS0xSLG05e0HwYpn-9" value="extend" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2w0yXS0xSLG05e0HwYpn-18" target="fy4yYYnd7suLlGbqgRSj-30">
+        <mxCell id="2w0yXS0xSLG05e0HwYpn-9" value="extend" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2w0yXS0xSLG05e0HwYpn-18" target="fy4yYYnd7suLlGbqgRSj-30">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="420" y="-250" as="sourcePoint" />
             <mxPoint x="491" y="-370" as="targetPoint" />
@@ -184,10 +184,10 @@
             <mxPoint x="641" y="-360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2w0yXS0xSLG05e0HwYpn-11" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=-0.014;exitY=0.671;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="fy4yYYnd7suLlGbqgRSj-23" target="2w0yXS0xSLG05e0HwYpn-1">
+        <mxCell id="2w0yXS0xSLG05e0HwYpn-11" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2w0yXS0xSLG05e0HwYpn-1" target="fy4yYYnd7suLlGbqgRSj-23">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="440" y="-225" as="sourcePoint" />
-            <mxPoint x="350" y="-410" as="targetPoint" />
+            <mxPoint x="310" y="-290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2w0yXS0xSLG05e0HwYpn-12" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.95;entryY=0.743;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fy4yYYnd7suLlGbqgRSj-36" target="fy4yYYnd7suLlGbqgRSj-23">
@@ -221,7 +221,7 @@
             <mxPoint x="229" y="-460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2w0yXS0xSLG05e0HwYpn-18" value="lihat ebook saya" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2w0yXS0xSLG05e0HwYpn-18" value="browse ebook saya" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="-165" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2w0yXS0xSLG05e0HwYpn-19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="2w0yXS0xSLG05e0HwYpn-18" source="fy4yYYnd7suLlGbqgRSj-1">
@@ -237,12 +237,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2w0yXS0xSLG05e0HwYpn-21" value="Tambah ebook" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="-50" width="140" height="70" as="geometry" />
+          <mxGeometry x="850" y="-50" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2w0yXS0xSLG05e0HwYpn-22" value="extend" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="2w0yXS0xSLG05e0HwYpn-21" source="2w0yXS0xSLG05e0HwYpn-18">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="700" y="10" as="sourcePoint" />
             <mxPoint x="651" y="-275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2w0yXS0xSLG05e0HwYpn-23" value="Upload ebook" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-50" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2w0yXS0xSLG05e0HwYpn-24" value="include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2w0yXS0xSLG05e0HwYpn-23" target="2w0yXS0xSLG05e0HwYpn-21">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="679" y="-95" as="sourcePoint" />
+            <mxPoint x="880" y="-5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
