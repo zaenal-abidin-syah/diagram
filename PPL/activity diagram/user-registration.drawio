@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-30T17:34:07.197Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="aPfftT9gKAVox81xuGPC" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-30T17:34:59.750Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="jfxaYdys3S-GfAxnodjr" version="24.6.4" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1674" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -158,17 +158,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-90" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-87">
-          <mxGeometry x="124.75" y="422" width="30" height="30" as="geometry" />
+          <mxGeometry x="145" y="422" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-91" value="verifikasi data" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-87">
-          <mxGeometry x="82.5" y="185.5" width="114.5" height="63" as="geometry" />
+          <mxGeometry x="102.75" y="185.5" width="114.5" height="63" as="geometry" />
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-93" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HRK5GdI_0ne3H7yPrhea-87" source="HRK5GdI_0ne3H7yPrhea-91" target="HRK5GdI_0ne3H7yPrhea-102">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="440" y="192" as="sourcePoint" />
             <mxPoint x="139.75" y="302" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="140" y="272" />
+              <mxPoint x="160" y="282" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -178,7 +178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-102" value="mengisi data" style="" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-87">
-          <mxGeometry x="84.75" y="312" width="110" height="50" as="geometry" />
+          <mxGeometry x="105" y="312" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-103" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="HRK5GdI_0ne3H7yPrhea-87" source="HRK5GdI_0ne3H7yPrhea-102" target="HRK5GdI_0ne3H7yPrhea-90">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -201,7 +201,7 @@
             <mxPoint x="1490" y="310" as="sourcePoint" />
             <mxPoint x="1294.5" y="328" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1510" y="320" />
+              <mxPoint x="1540" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
