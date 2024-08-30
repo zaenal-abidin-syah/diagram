@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-08-30T17:26:08.902Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="aluix34V70eJ701J5aXN" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-30T17:34:07.197Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="aPfftT9gKAVox81xuGPC" version="24.6.4" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1674" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="user" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="164.5" y="128" width="280" height="570" as="geometry" />
+          <mxGeometry x="164.5" y="128" width="280" height="622" as="geometry" />
         </mxCell>
         <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="2" vertex="1">
           <mxGeometry x="120" y="40" width="30" height="30" as="geometry" />
@@ -18,26 +18,14 @@
         <mxCell id="7" value="menuju halaman registrasi" style="" parent="2" vertex="1">
           <mxGeometry x="60" y="110" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="mengisi data" style="" parent="2" vertex="1">
-          <mxGeometry x="80" y="192" width="110" height="50" as="geometry" />
+        <mxCell id="8" value="mengisi form registration" style="" parent="2" vertex="1">
+          <mxGeometry x="60" y="192" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="7" target="8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HRK5GdI_0ne3H7yPrhea-61" value="konfirmasi email" style="" vertex="1" parent="2">
-          <mxGeometry x="55" y="302" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="HRK5GdI_0ne3H7yPrhea-66" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2" target="HRK5GdI_0ne3H7yPrhea-67">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="135.5" y="352" as="sourcePoint" />
-            <mxPoint x="335.5" y="422" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="135.5" y="382" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3" value="system" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="444.5" y="128" width="325.5" height="570" as="geometry" />
+          <mxGeometry x="444.5" y="128" width="325.5" height="622" as="geometry" />
         </mxCell>
         <mxCell id="24" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="3" target="21" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -49,21 +37,18 @@
             <mxPoint x="130" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="38" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" parent="3" vertex="1">
-          <mxGeometry x="125.5" y="500" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-56" value="verifikasi data" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="3">
-          <mxGeometry x="82.5" y="185.5" width="114.5" height="63" as="geometry" />
+          <mxGeometry x="98.25" y="185.5" width="114.5" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="HRK5GdI_0ne3H7yPrhea-63" value="mengirim email konfirmasi" style="" vertex="1" parent="3">
-          <mxGeometry x="59.75" y="302" width="160" height="50" as="geometry" />
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-63" value="menyimpan data user" style="" vertex="1" parent="3">
+          <mxGeometry x="75.5" y="302" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-64" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="HRK5GdI_0ne3H7yPrhea-56" target="HRK5GdI_0ne3H7yPrhea-63">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="440" y="192" as="sourcePoint" />
             <mxPoint x="316" y="192" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="140" y="272" />
+              <mxPoint x="156" y="282" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -72,16 +57,48 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRK5GdI_0ne3H7yPrhea-67" value="mendaftarkan user" style="" vertex="1" parent="3">
-          <mxGeometry x="60.5" y="402" width="160" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-68" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3" source="HRK5GdI_0ne3H7yPrhea-67" target="38">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="440" y="492" as="sourcePoint" />
             <mxPoint x="316" y="492" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" parent="3" vertex="1">
+          <mxGeometry x="140.5" y="580" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-67" value="mendaftarkan user" style="" vertex="1" parent="3">
+          <mxGeometry x="75.5" y="472" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-66" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3" target="HRK5GdI_0ne3H7yPrhea-67">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-145.25" y="432" as="sourcePoint" />
+            <mxPoint x="54.75" y="502" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="140.5" y="472" />
+              <mxPoint x="-145.25" y="462" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-61" value="konfirmasi email" style="" vertex="1" parent="3">
+          <mxGeometry x="-225.75" y="382" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-60" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="3" source="HRK5GdI_0ne3H7yPrhea-127" target="HRK5GdI_0ne3H7yPrhea-61">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="35.5" y="422" as="sourcePoint" />
+            <mxPoint x="-85.25" y="372" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-5.25" y="402" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-127" value="menyimpan data user" style="" vertex="1" parent="3">
+          <mxGeometry x="76.25" y="382" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-128" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="3" source="HRK5GdI_0ne3H7yPrhea-63" target="HRK5GdI_0ne3H7yPrhea-127">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="400" y="319" as="sourcePoint" />
+            <mxPoint x="216" y="262" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-41" value="User Registration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
@@ -98,22 +115,13 @@
             <mxPoint x="620" y="300" as="sourcePoint" />
             <mxPoint x="424.5" y="318" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="310" />
+              <mxPoint x="660" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-59" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="12">
           <mxGeometry x="-0.7157" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HRK5GdI_0ne3H7yPrhea-60" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRK5GdI_0ne3H7yPrhea-63" target="HRK5GdI_0ne3H7yPrhea-61">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="914.5" y="357" as="sourcePoint" />
-            <mxPoint x="360" y="420" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="440" y="450" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-79" value="user" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
