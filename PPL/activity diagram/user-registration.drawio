@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-30T18:06:05.825Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="__wXjJ4ynP-x6C17NZhW" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-30T18:11:26.440Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="7zDQYj2UVByIhrPir5Ro" version="24.6.4" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1674" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -211,7 +211,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-131" value="user" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="1784.5" y="138" width="280" height="662" as="geometry" />
+          <mxGeometry x="1784.5" y="138" width="280" height="802" as="geometry" />
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-132" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-131">
           <mxGeometry x="120" y="40" width="30" height="30" as="geometry" />
@@ -234,10 +234,10 @@
           <mxGeometry x="50" y="302" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-150" value="mengisi form ganti password" style="" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-131">
-          <mxGeometry x="50" y="452" width="160" height="50" as="geometry" />
+          <mxGeometry x="50" y="462" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-137" value="system" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
-          <mxGeometry x="2064.5" y="138" width="325.5" height="662" as="geometry" />
+          <mxGeometry x="2064.5" y="138" width="325.5" height="802" as="geometry" />
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-138" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="HRK5GdI_0ne3H7yPrhea-137">
           <mxGeometry relative="1" as="geometry">
@@ -271,19 +271,36 @@
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-144" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HRK5GdI_0ne3H7yPrhea-137" source="HRK5GdI_0ne3H7yPrhea-146" target="HRK5GdI_0ne3H7yPrhea-145">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="440" y="532" as="sourcePoint" />
-            <mxPoint x="316" y="532" as="targetPoint" />
+            <mxPoint x="440" y="662" as="sourcePoint" />
+            <mxPoint x="316" y="662" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-145" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-137">
-          <mxGeometry x="140.5" y="620" width="30" height="30" as="geometry" />
+          <mxGeometry x="140.5" y="750" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-146" value="update password" style="" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-137">
-          <mxGeometry x="75.5" y="512" width="160" height="50" as="geometry" />
+          <mxGeometry x="75.5" y="652" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-162" value="apakah tautan valid?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-137">
           <mxGeometry x="84.63" y="382" width="141.75" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-166" value="apakah password valid?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-137">
+          <mxGeometry x="72.81" y="532" width="165.38" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-167" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="HRK5GdI_0ne3H7yPrhea-137" source="HRK5GdI_0ne3H7yPrhea-166" target="HRK5GdI_0ne3H7yPrhea-146">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="195.5" y="582" as="sourcePoint" />
+            <mxPoint x="155.01000000000022" y="625" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="155.01000000000022" y="605" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-168" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="HRK5GdI_0ne3H7yPrhea-167">
+          <mxGeometry x="-0.1756" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-152" value="Lupa Kata Sandi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1780" y="80" width="610" height="30" as="geometry" />
@@ -317,7 +334,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRK5GdI_0ne3H7yPrhea-147" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HRK5GdI_0ne3H7yPrhea-146" source="HRK5GdI_0ne3H7yPrhea-150">
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-147" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;" edge="1" parent="1" target="HRK5GdI_0ne3H7yPrhea-166" source="HRK5GdI_0ne3H7yPrhea-150">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1919.25" y="570" as="sourcePoint" />
             <mxPoint x="2119.25" y="640" as="targetPoint" />
@@ -335,12 +352,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRK5GdI_0ne3H7yPrhea-161" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HRK5GdI_0ne3H7yPrhea-162" target="HRK5GdI_0ne3H7yPrhea-150">
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-161" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="HRK5GdI_0ne3H7yPrhea-162" target="HRK5GdI_0ne3H7yPrhea-150">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="2210" y="570" as="sourcePoint" />
-            <mxPoint x="1800" y="580" as="targetPoint" />
+            <mxPoint x="2000" y="580" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2110" y="615" />
+              <mxPoint x="2110" y="613" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -361,6 +378,20 @@
         <mxCell id="HRK5GdI_0ne3H7yPrhea-165" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="HRK5GdI_0ne3H7yPrhea-164">
           <mxGeometry x="-0.8829" relative="1" as="geometry">
             <mxPoint x="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-169" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HRK5GdI_0ne3H7yPrhea-166" target="HRK5GdI_0ne3H7yPrhea-150">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="2274.25" y="713" as="sourcePoint" />
+            <mxPoint x="2007.25" y="631" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2302.5" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-170" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="HRK5GdI_0ne3H7yPrhea-169">
+          <mxGeometry x="-0.7157" relative="1" as="geometry">
+            <mxPoint y="21" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
