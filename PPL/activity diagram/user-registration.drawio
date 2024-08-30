@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-30T17:42:30.525Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="C2RV_CfF29TVlnhXb3Dv" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-30T17:59:18.414Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="g0G7TTeLoKFXr78Icawu" version="24.6.4" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1674" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -208,6 +208,126 @@
         <mxCell id="HRK5GdI_0ne3H7yPrhea-100" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="HRK5GdI_0ne3H7yPrhea-99">
           <mxGeometry x="-0.7157" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-131" value="user" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="1784.5" y="138" width="280" height="622" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-132" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-131">
+          <mxGeometry x="120" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-133" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="HRK5GdI_0ne3H7yPrhea-131" source="HRK5GdI_0ne3H7yPrhea-132" target="HRK5GdI_0ne3H7yPrhea-134">
+          <mxGeometry x="100" y="40" as="geometry">
+            <mxPoint x="115" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-134" value="menuju halaman lupa kata sandi" style="" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-131">
+          <mxGeometry x="45" y="110" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-135" value="mengisi form email / username" style="" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-131">
+          <mxGeometry x="50" y="192" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-136" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="HRK5GdI_0ne3H7yPrhea-131" source="HRK5GdI_0ne3H7yPrhea-134" target="HRK5GdI_0ne3H7yPrhea-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-148" value="klik tautan" style="" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-131">
+          <mxGeometry x="50" y="302" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-150" value="mengisi form ganti password" style="" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-131">
+          <mxGeometry x="50" y="402" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-151" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="HRK5GdI_0ne3H7yPrhea-131" source="HRK5GdI_0ne3H7yPrhea-148" target="HRK5GdI_0ne3H7yPrhea-150">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="680" y="319" as="sourcePoint" />
+            <mxPoint x="496" y="262" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-137" value="system" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
+          <mxGeometry x="2064.5" y="138" width="325.5" height="622" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-138" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="HRK5GdI_0ne3H7yPrhea-137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="245" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-139" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="HRK5GdI_0ne3H7yPrhea-137">
+          <mxGeometry x="130" y="90" as="geometry">
+            <mxPoint x="130" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-140" value="apakah data valid?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-137">
+          <mxGeometry x="98.25" y="185.5" width="114.5" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-141" value="mengirim tautan ganti password" style="" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-137">
+          <mxGeometry x="58.25" y="302" width="194.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-142" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HRK5GdI_0ne3H7yPrhea-137" source="HRK5GdI_0ne3H7yPrhea-140" target="HRK5GdI_0ne3H7yPrhea-141">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="440" y="192" as="sourcePoint" />
+            <mxPoint x="316" y="192" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="156" y="282" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-143" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="HRK5GdI_0ne3H7yPrhea-142">
+          <mxGeometry x="-0.1756" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-144" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HRK5GdI_0ne3H7yPrhea-137" source="HRK5GdI_0ne3H7yPrhea-146" target="HRK5GdI_0ne3H7yPrhea-145">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="440" y="492" as="sourcePoint" />
+            <mxPoint x="316" y="492" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-145" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-137">
+          <mxGeometry x="140.5" y="580" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-146" value="update password" style="" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-137">
+          <mxGeometry x="75.5" y="472" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-152" value="Lupa Kata Sandi" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="80" width="610" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-153" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="HRK5GdI_0ne3H7yPrhea-135" target="HRK5GdI_0ne3H7yPrhea-140" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2010" y="382.5" as="sourcePoint" />
+            <mxPoint x="2130" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-154" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="HRK5GdI_0ne3H7yPrhea-140" target="HRK5GdI_0ne3H7yPrhea-134" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="2240" y="310" as="sourcePoint" />
+            <mxPoint x="2044.5" y="328" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2280" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-155" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="HRK5GdI_0ne3H7yPrhea-154">
+          <mxGeometry x="-0.7157" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-149" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HRK5GdI_0ne3H7yPrhea-141" target="HRK5GdI_0ne3H7yPrhea-148">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="2100" y="560" as="sourcePoint" />
+            <mxPoint x="1979.25" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2060" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-147" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HRK5GdI_0ne3H7yPrhea-146" source="HRK5GdI_0ne3H7yPrhea-150">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1919.25" y="570" as="sourcePoint" />
+            <mxPoint x="2119.25" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1919.25" y="600" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
