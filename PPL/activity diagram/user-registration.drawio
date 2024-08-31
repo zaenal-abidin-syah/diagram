@@ -424,7 +424,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-177" value="user" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="90" y="1118" width="359" height="762" as="geometry" />
+          <mxGeometry x="90" y="1118" width="359" height="762" as="geometry">
+            <mxRectangle x="90" y="1118" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-178" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="HRK5GdI_0ne3H7yPrhea-177" vertex="1">
           <mxGeometry x="120" y="40" width="30" height="30" as="geometry" />
@@ -488,7 +490,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-183" value="system" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="449" y="1118" width="541" height="762" as="geometry" />
+          <mxGeometry x="449" y="1118" width="541" height="762" as="geometry">
+            <mxRectangle x="449" y="1118" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-184" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="HRK5GdI_0ne3H7yPrhea-183" edge="1">
           <mxGeometry relative="1" as="geometry">
