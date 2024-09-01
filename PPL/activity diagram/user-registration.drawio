@@ -1008,7 +1008,7 @@
         <mxCell id="KcR3Axeml3ntqwG7hCUG-121" value="hapus materi pembelajaran" style="" vertex="1" parent="KcR3Axeml3ntqwG7hCUG-76">
           <mxGeometry x="120.5" y="412" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KcR3Axeml3ntqwG7hCUG-122" value="simpan materi perubahan" style="" vertex="1" parent="KcR3Axeml3ntqwG7hCUG-76">
+        <mxCell id="KcR3Axeml3ntqwG7hCUG-122" value="simpan perubahan" style="" vertex="1" parent="KcR3Axeml3ntqwG7hCUG-76">
           <mxGeometry x="120.5" y="482" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KcR3Axeml3ntqwG7hCUG-123" value="tambah materi pembelajaran" style="" vertex="1" parent="KcR3Axeml3ntqwG7hCUG-76">
