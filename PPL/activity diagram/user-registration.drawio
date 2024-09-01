@@ -38,18 +38,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-56" value="apakah data valid?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="3" vertex="1">
-          <mxGeometry x="98.25" y="185.5" width="121.75" height="63" as="geometry" />
+          <mxGeometry x="94.63" y="185.5" width="121.75" height="63" as="geometry" />
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-63" value="simpan data user" style="" parent="3" vertex="1">
           <mxGeometry x="75.5" y="302" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HRK5GdI_0ne3H7yPrhea-64" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3" source="HRK5GdI_0ne3H7yPrhea-56" target="HRK5GdI_0ne3H7yPrhea-63" edge="1">
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-64" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="3" source="HRK5GdI_0ne3H7yPrhea-56" target="HRK5GdI_0ne3H7yPrhea-63" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="440" y="192" as="sourcePoint" />
+            <mxPoint x="155.5" y="262" as="sourcePoint" />
             <mxPoint x="316" y="192" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="156" y="282" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-65" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="HRK5GdI_0ne3H7yPrhea-64" vertex="1" connectable="0">
