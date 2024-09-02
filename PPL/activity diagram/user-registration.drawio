@@ -298,7 +298,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-97" value="User Login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="830" y="70" width="610" height="30" as="geometry" />
+          <mxGeometry x="830" y="70" width="900" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-98" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HRK5GdI_0ne3H7yPrhea-83" target="HRK5GdI_0ne3H7yPrhea-91" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -770,7 +770,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KcR3Axeml3ntqwG7hCUG-96" value="Mengelola Kursus" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1460" y="2320" width="610" height="30" as="geometry" />
+          <mxGeometry x="1170" y="2320" width="1170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KcR3Axeml3ntqwG7hCUG-101" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KcR3Axeml3ntqwG7hCUG-100" target="KcR3Axeml3ntqwG7hCUG-108" edge="1">
           <mxGeometry relative="1" as="geometry">
