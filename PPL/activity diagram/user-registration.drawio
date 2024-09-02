@@ -653,7 +653,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3N9_L2sID0R-BA5WyCA_-141" value="publikasi kursus" style="movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="KcR3Axeml3ntqwG7hCUG-44">
+        <mxCell id="3N9_L2sID0R-BA5WyCA_-141" value="simpan kursus" style="movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="KcR3Axeml3ntqwG7hCUG-44">
           <mxGeometry x="82.75" y="562" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3N9_L2sID0R-BA5WyCA_-142" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="KcR3Axeml3ntqwG7hCUG-44" source="3N9_L2sID0R-BA5WyCA_-141" target="KcR3Axeml3ntqwG7hCUG-57">
