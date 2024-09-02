@@ -2751,7 +2751,7 @@
             <mxPoint x="5490" y="2242" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3N9_L2sID0R-BA5WyCA_-326" value="user" style="swimlane;whiteSpace=wrap;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+        <mxCell id="3N9_L2sID0R-BA5WyCA_-326" value="instructure" style="swimlane;whiteSpace=wrap;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="4214.5" y="4068" width="280" height="802" as="geometry" />
         </mxCell>
         <mxCell id="3N9_L2sID0R-BA5WyCA_-327" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="3N9_L2sID0R-BA5WyCA_-326">
