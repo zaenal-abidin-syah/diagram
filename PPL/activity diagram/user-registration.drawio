@@ -952,7 +952,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-177" value="user" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="2870" y="138" width="359" height="902" as="geometry">
+          <mxGeometry x="2660" y="138" width="569" height="902" as="geometry">
             <mxRectangle x="90" y="1118" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -969,6 +969,57 @@
         </mxCell>
         <mxCell id="jJFiKNHKOUQQ42F-ZTXC-38" value="aksi ?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="HRK5GdI_0ne3H7yPrhea-177" vertex="1">
           <mxGeometry x="80" y="275" width="110" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFiKNHKOUQQ42F-ZTXC-51" value="klik ubah foto profile button" style="" parent="HRK5GdI_0ne3H7yPrhea-177" vertex="1">
+          <mxGeometry x="45" y="452" width="180" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFiKNHKOUQQ42F-ZTXC-40" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="HRK5GdI_0ne3H7yPrhea-177" source="jJFiKNHKOUQQ42F-ZTXC-38" target="jJFiKNHKOUQQ42F-ZTXC-51" edge="1">
+          <mxGeometry x="-0.8616" y="16" relative="1" as="geometry">
+            <mxPoint x="243" y="482" as="targetPoint" />
+            <mxPoint x="183" y="392" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="135" y="432" />
+              <mxPoint x="135" y="432" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jJFiKNHKOUQQ42F-ZTXC-42" value="&lt;div style=&quot;text-align: left;&quot;&gt;ubah foto profil&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jJFiKNHKOUQQ42F-ZTXC-40" vertex="1" connectable="0">
+          <mxGeometry x="-0.5786" y="2" relative="1" as="geometry">
+            <mxPoint x="-8" y="44" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrNV234WTEu4s2YdwTiY-149" value="unggah foto profile" style="" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-177">
+          <mxGeometry x="370" y="452" width="180" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YrNV234WTEu4s2YdwTiY-150" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HRK5GdI_0ne3H7yPrhea-177" source="jJFiKNHKOUQQ42F-ZTXC-51" target="YrNV234WTEu4s2YdwTiY-149">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="486" as="sourcePoint" />
+            <mxPoint x="640" y="442" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jJFiKNHKOUQQ42F-ZTXC-57" value="masukan kata sandi baru" style="" parent="HRK5GdI_0ne3H7yPrhea-177" vertex="1">
+          <mxGeometry x="45" y="532" width="180" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jJFiKNHKOUQQ42F-ZTXC-41" value="ubah kata sandi" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="HRK5GdI_0ne3H7yPrhea-177" source="jJFiKNHKOUQQ42F-ZTXC-38" target="jJFiKNHKOUQQ42F-ZTXC-57" edge="1">
+          <mxGeometry x="-0.1347" y="-20" relative="1" as="geometry">
+            <mxPoint x="373" y="602" as="targetPoint" />
+            <mxPoint x="437" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="20" y="304" />
+              <mxPoint x="20" y="556" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrNV234WTEu4s2YdwTiY-151" value="klik change password button" style="" vertex="1" parent="HRK5GdI_0ne3H7yPrhea-177">
+          <mxGeometry x="370" y="532" width="180" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="YrNV234WTEu4s2YdwTiY-152" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HRK5GdI_0ne3H7yPrhea-177" source="jJFiKNHKOUQQ42F-ZTXC-57" target="YrNV234WTEu4s2YdwTiY-151">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="555.52" as="sourcePoint" />
+            <mxPoint x="370" y="555.52" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-183" value="system" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="3229" y="138" width="771" height="902" as="geometry">
@@ -991,20 +1042,8 @@
             <mxPoint x="74" y="406" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jJFiKNHKOUQQ42F-ZTXC-55" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="HRK5GdI_0ne3H7yPrhea-183" source="jJFiKNHKOUQQ42F-ZTXC-51" target="jJFiKNHKOUQQ42F-ZTXC-53" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-96" y="497" as="sourcePoint" />
-            <mxPoint x="-6" y="497" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jJFiKNHKOUQQ42F-ZTXC-45" value="masukan informasi pribadi baru" style="" parent="HRK5GdI_0ne3H7yPrhea-183" vertex="1">
           <mxGeometry x="-196" y="382" width="180" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="jJFiKNHKOUQQ42F-ZTXC-51" value="unggah foto profile" style="" parent="HRK5GdI_0ne3H7yPrhea-183" vertex="1">
-          <mxGeometry x="-196" y="452" width="180" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="jJFiKNHKOUQQ42F-ZTXC-57" value="masukan kata sandi baru" style="" parent="HRK5GdI_0ne3H7yPrhea-183" vertex="1">
-          <mxGeometry x="-196" y="532" width="180" height="48" as="geometry" />
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-191" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" parent="HRK5GdI_0ne3H7yPrhea-183" vertex="1">
           <mxGeometry x="486" y="832" width="30" height="30" as="geometry" />
@@ -1084,7 +1123,7 @@
           <mxGeometry x="121" y="142" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HRK5GdI_0ne3H7yPrhea-203" value="Pengelolaan Profil User" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="2870" y="80" width="1130" height="30" as="geometry" />
+          <mxGeometry x="2800" y="80" width="1200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KcR3Axeml3ntqwG7hCUG-134" value="user" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="164.5" y="1508" width="280" height="1102" as="geometry" />
@@ -1539,26 +1578,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRK5GdI_0ne3H7yPrhea-182" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="HRK5GdI_0ne3H7yPrhea-180" target="YrNV234WTEu4s2YdwTiY-147" edge="1">
+        <mxCell id="HRK5GdI_0ne3H7yPrhea-182" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HRK5GdI_0ne3H7yPrhea-180" target="YrNV234WTEu4s2YdwTiY-147" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3005" y="305" />
+              <mxPoint x="2795" y="305" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jJFiKNHKOUQQ42F-ZTXC-40" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jJFiKNHKOUQQ42F-ZTXC-38" target="jJFiKNHKOUQQ42F-ZTXC-51" edge="1">
-          <mxGeometry x="-0.8616" y="16" relative="1" as="geometry">
-            <mxPoint x="3043" y="620" as="targetPoint" />
-            <mxPoint x="2983" y="530" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="3008" y="614" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jJFiKNHKOUQQ42F-ZTXC-42" value="&lt;div style=&quot;text-align: left;&quot;&gt;ubah foto profil&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jJFiKNHKOUQQ42F-ZTXC-40" vertex="1" connectable="0">
-          <mxGeometry x="-0.5786" y="2" relative="1" as="geometry">
-            <mxPoint x="-8" y="44" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jJFiKNHKOUQQ42F-ZTXC-39" value="edit profile" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jJFiKNHKOUQQ42F-ZTXC-38" target="jJFiKNHKOUQQ42F-ZTXC-45" edge="1">
@@ -1570,25 +1594,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jJFiKNHKOUQQ42F-ZTXC-41" value="ubah kata sandi" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jJFiKNHKOUQQ42F-ZTXC-38" target="jJFiKNHKOUQQ42F-ZTXC-57" edge="1">
-          <mxGeometry x="0.311" y="7" relative="1" as="geometry">
-            <mxPoint x="3033" y="740" as="targetPoint" />
-            <mxPoint x="3097" y="548" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="2923" y="479" />
-              <mxPoint x="2923" y="694" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YrNV234WTEu4s2YdwTiY-148" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YrNV234WTEu4s2YdwTiY-147" target="jJFiKNHKOUQQ42F-ZTXC-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3015" y="294" as="sourcePoint" />
             <mxPoint x="3360" y="315" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="3425" y="380" />
-              <mxPoint x="3005" y="380" />
+              <mxPoint x="3425" y="370" />
+              <mxPoint x="2795" y="370" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jJFiKNHKOUQQ42F-ZTXC-55" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YrNV234WTEu4s2YdwTiY-149" target="jJFiKNHKOUQQ42F-ZTXC-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3133" y="635" as="sourcePoint" />
+            <mxPoint x="3223" y="635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
