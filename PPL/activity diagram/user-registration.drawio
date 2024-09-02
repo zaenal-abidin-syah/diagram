@@ -1263,7 +1263,7 @@
         <mxCell id="KcR3Axeml3ntqwG7hCUG-160" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="KcR3Axeml3ntqwG7hCUG-143" vertex="1">
           <mxGeometry x="197.35999999999999" y="1432" width="110" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="KcR3Axeml3ntqwG7hCUG-161" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="KcR3Axeml3ntqwG7hCUG-143" source="KcR3Axeml3ntqwG7hCUG-157" target="KcR3Axeml3ntqwG7hCUG-160" edge="1">
+        <mxCell id="KcR3Axeml3ntqwG7hCUG-161" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="KcR3Axeml3ntqwG7hCUG-143" source="YrNV234WTEu4s2YdwTiY-232" target="KcR3Axeml3ntqwG7hCUG-160" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="112.38" y="1380" as="sourcePoint" />
             <mxPoint x="332.38" y="1395" as="targetPoint" />
@@ -1272,7 +1272,7 @@
         <mxCell id="KcR3Axeml3ntqwG7hCUG-162" value="daftarkan user" style="" parent="KcR3Axeml3ntqwG7hCUG-143" vertex="1">
           <mxGeometry x="56.50000000000001" y="1192" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KcR3Axeml3ntqwG7hCUG-163" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="KcR3Axeml3ntqwG7hCUG-143" source="KcR3Axeml3ntqwG7hCUG-162" target="KcR3Axeml3ntqwG7hCUG-160" edge="1">
+        <mxCell id="KcR3Axeml3ntqwG7hCUG-163" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="KcR3Axeml3ntqwG7hCUG-143" source="YrNV234WTEu4s2YdwTiY-231" target="KcR3Axeml3ntqwG7hCUG-160" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="367.87" y="1382" as="sourcePoint" />
             <mxPoint x="257.87" y="1481" as="targetPoint" />
@@ -1311,6 +1311,24 @@
         </mxCell>
         <mxCell id="YrNV234WTEu4s2YdwTiY-229" value="tampilkan detail pembayaran" style="" vertex="1" parent="KcR3Axeml3ntqwG7hCUG-143">
           <mxGeometry x="170.82999999999998" y="672" width="164.87" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YrNV234WTEu4s2YdwTiY-231" value="tampilkan pesan berhasil mendaftar" style="" vertex="1" parent="KcR3Axeml3ntqwG7hCUG-143">
+          <mxGeometry x="39.75" y="1322" width="193.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YrNV234WTEu4s2YdwTiY-232" value="tampilkan pesan, kuota kelas penuh" style="" vertex="1" parent="KcR3Axeml3ntqwG7hCUG-143">
+          <mxGeometry x="259.75" y="1322" width="193.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YrNV234WTEu4s2YdwTiY-234" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KcR3Axeml3ntqwG7hCUG-143" source="KcR3Axeml3ntqwG7hCUG-162" target="YrNV234WTEu4s2YdwTiY-231">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-83.50000000000011" y="1222" as="sourcePoint" />
+            <mxPoint x="115.86999999999989" y="1223" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YrNV234WTEu4s2YdwTiY-233" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="KcR3Axeml3ntqwG7hCUG-143" source="KcR3Axeml3ntqwG7hCUG-157" target="YrNV234WTEu4s2YdwTiY-232">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="266.5" y="1242" as="sourcePoint" />
+            <mxPoint x="115.86999999999989" y="1223" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KcR3Axeml3ntqwG7hCUG-164" value="Pendaftaran Kursus" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="289" y="1730" width="690" height="30" as="geometry" />
