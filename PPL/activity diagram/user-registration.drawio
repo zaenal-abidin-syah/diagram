@@ -1924,8 +1924,8 @@
             <mxPoint x="256.5" y="711" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YrNV234WTEu4s2YdwTiY-202" value="Pencarian dan Filtering Course" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
-          <mxGeometry x="1960" y="1730" width="610" height="30" as="geometry" />
+        <mxCell id="YrNV234WTEu4s2YdwTiY-202" value="Pencarian dan Filtering Course" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="1730" width="870" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YrNV234WTEu4s2YdwTiY-213" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" source="YrNV234WTEu4s2YdwTiY-206" target="YrNV234WTEu4s2YdwTiY-211" edge="1">
           <mxGeometry relative="1" as="geometry">
